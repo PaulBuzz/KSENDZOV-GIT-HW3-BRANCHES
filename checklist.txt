@@ -1,0 +1,17 @@
+Typical UI testing checklist encompasses the following activities:
+
+    1. Check font (font type and font size)
+
+    2. Check for consistency (colors and visual elements)
+
+    3. Check behavior of interactive elements (do the buttons, clicks, hovers, drag-and-drops, etc. work as intended?)
+
+    4. Check spaces (paddings, borders, margins)
+
+    5. Check page content is as per design (readable font, color, proper text alignment)
+
+    6. Check the page in all standard resolutions (all page layouts are consistent and flawless across devices, ensuring that the UI elements adapt and are displayed correctly in  different sizes)
+
+    7. Check layout (ensure that sections don’t overlap each other)
+
+    8. Check images displayed are not blurry
