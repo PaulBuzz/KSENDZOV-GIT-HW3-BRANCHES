@@ -1,4 +1,4 @@
-# GITHW3
+# BRANCHES
 **Git HW repository to learn branches, merges, etc**
 
 0. Переходим в папку, куда будем клонировать репозиторий для работы.
